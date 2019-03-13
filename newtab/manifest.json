@@ -6,8 +6,6 @@
 	"chrome_url_overrides": {
 		"newtab": "blank.html"
 	},
-	"content_security_policy": "default-src 'none'",
-	"incognito": "not_allowed",
 	"externally_connectable": {
 		"ids": []
 	}
